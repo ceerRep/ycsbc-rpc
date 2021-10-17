@@ -1,0 +1,3 @@
+[submodule "ycsbc"]
+	path = thirdparty/ycsbc
+	url = https://github.com/ceerRep/YCSB-C.git
