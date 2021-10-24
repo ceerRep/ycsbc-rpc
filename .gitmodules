@@ -1,3 +1,6 @@
 [submodule "ycsbc"]
 	path = thirdparty/ycsbc
 	url = https://github.com/ceerRep/YCSB-C.git
+[submodule "thirdparty/xxHash"]
+	path = thirdparty/xxHash
+	url = https://github.com/Cyan4973/xxHash.git
